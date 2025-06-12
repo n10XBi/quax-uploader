@@ -113,7 +113,7 @@ def upload_file_quax_ax(file_path, expiry_days=None):
 if __name__ == "__main__":
     print("--- Contoh Penggunaan Upload File Video ke qu.ax ---")
     
-    target_video_file = "27f4273337f94786ae07e67a6ace2113.mp4" 
+    target_video_file = "test.mp4" 
     
     print(f"Mencoba mengunggah video: {target_video_file}...")
 
